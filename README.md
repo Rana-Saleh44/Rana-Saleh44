@@ -52,6 +52,4 @@
 </p>
 
 <h3 align="left">GitHub Contributions:</h3>
-<p align="center">
-  <img src="https://ghchart.rshah.org/rana-saleh44" alt="Rana's GitHub Contributions" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana-saleh44&" alt="rana-saleh44" /></p>
