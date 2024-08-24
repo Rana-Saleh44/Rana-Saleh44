@@ -50,3 +50,8 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
+
+<h3 align="left">GitHub Contributions:</h3>
+<p align="center">
+  <img src="https://github.com/rana-saleh44/rana-saleh44/raw/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" />
+</p>
