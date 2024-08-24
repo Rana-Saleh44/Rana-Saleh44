@@ -12,7 +12,7 @@
 </h2>
 
 </p> 
-<h3 align="center">A passionate Computer Science Student from Egypt</h3>
+<h3 align="center">A passionate Computer Science Student</h3>
 
 <div id="header" align="center">
  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnl4ZTJkNm9qbzhueGVteGgxcXFueDI2bWw2aWoyc2JhNXI2NDZiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600"/>
