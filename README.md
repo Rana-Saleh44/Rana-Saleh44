@@ -51,5 +51,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">GitHub Contributions:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana-saleh44&" alt="rana-saleh44" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rana-saleh44&show_icons=true&locale=en&layout=compact" alt="rana-saleh44" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana-saleh44&show_icons=true&locale=en" alt="rana-saleh44" /></p>
