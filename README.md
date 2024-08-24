@@ -53,5 +53,5 @@
 
 <h3 align="left">GitHub Contributions:</h3>
 <p align="center">
-  <img src="https://github.com/rana-saleh44/rana-saleh44/raw/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" />
+  <img src="https://ghchart.rshah.org/rana-saleh44" alt="Rana's GitHub Contributions" />
 </p>
