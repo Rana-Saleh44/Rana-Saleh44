@@ -52,6 +52,3 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rana-saleh44&show_icons=true&locale=en&layout=compact" alt="rana-saleh44" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana-saleh44&show_icons=true&locale=en" alt="rana-saleh44" /></p>
